@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Sion Raj
 
-<!--
-**sion200506/sion200506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning
+- React.js
+- Data Structures & Algorithms
+
+🚀 Skills
+
+- Java
+- HTML
+- CSS
+- React (Learning)
+- AI/ML
+- Git
+- GitHub
+
+## Projects
+
+### 🔹 Missing Laptop Detection
+AI-powered object detection system trained using custom datasets.
+
+### 🔹 Portfolio Website
+Responsive portfolio built using HTML and CSS.
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sion-raj-1b9758363
+- Email: sionraj79@gmail.com
+
+⭐ Always learning and building new projects.
