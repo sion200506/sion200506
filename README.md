@@ -60,15 +60,9 @@
 - Model training using custom dataset
 - Python + OpenCV
 
-### 🎓 Student Management System
-- Java
-- OOP Concepts
-- CRUD Operations
-
 ### 🌐 Portfolio Website
 - HTML
 - CSS
-- JavaScript
 
 ---
 
